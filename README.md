@@ -38,6 +38,12 @@ Data Structures & Algorithms/binary-search/submission-0.ts
 Python For Beginners/python-hello-world/submission-0.py
 ```
 
+## DSA Patterns
+
+| Category | Notes |
+|---|---|
+| Graph | [BFS and DFS patterns](Data%20Structures%20%26%20Algorithms/Graph%20Patterns) |
+
 ---
 
 ## Supported languages
